@@ -34,6 +34,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+Chanllenges:
+1.Adajastment of Photo
+2.Position of texts & button
+3.Toast 
+
 ## License
 
     Copyright [2023] [Joyce Shu]
